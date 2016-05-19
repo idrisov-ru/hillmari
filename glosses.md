@@ -43,14 +43,14 @@ CVB | tolə̑n | temə̈n | ? | kolen | siren | ?
 
 #### Непрошедшее
 
-Глосса | I | I B | I F | I CV | II | II B | II F | II CV
------- | --| --- | --- | ---- | -- | ---- | ---- | ----
-NPST.1SG | -am/-äm  | tolam | temäm | -- | -em | kolem | sirem | kem
-NPST.2SG | -at/-ät | tolat | temät | -- | -et | kolet | siret | ket
-NPST.3SG | -eš | toleš | temeš | -- | -a/-ä | kola | sirä | keä
-NPST.1PL | -ə̑na/-ə̈nä | tolə̑na | temə̈nä | -- | -enä | kolenä | sirenä | kenä
-NPST.2PL | -ə̑da/-ə̈dä | tolə̑da | temə̈dä | -- | -edä | koledä | siredä | kedä
-NPST.3PL | -ə̑t/-ə̈t | tolə̑t | temə̈t | -- | -at/-ät | kolat | sirät | keät
+Глосса   | I         | I B    | I F    | I CV | II     | II B   | II F   | II CV
+-------- | --------- | ------ | ------ | ---- | ------ | ------ | ------ | -----
+NPST.1SG | -am/-äm   | tolam  | temäm  | ?   | -em     | kolem  | sirem  | kem
+NPST.2SG | -at/-ät   | tolat  | temät  | ?   | -et     | kolet  | siret  | ket
+NPST.3SG | -eš       | toleš  | temeš  | ?   | -a/-ä   | kola   | sirä   | keä
+NPST.1PL | -ə̑na/-ə̈nä | tolə̑na | temə̈nä | ?   | -enä    | kolenä | sirenä | kenä
+NPST.2PL | -ə̑da/-ə̈dä | tolə̑da | temə̈dä | ?   | -edä    | koledä | siredä | kedä
+NPST.3PL | -ə̑t/-ə̈t   | tolə̑t  | temə̈t  | ?   | -at/-ät | kolat  | sirät  | keät
 
 Глосса | Отриц. глагол | I B | I F | I CV | II B | II F | II CV
 ------ | --------------| --- | --- | -----| ---- | ---- | ----
