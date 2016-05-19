@@ -80,3 +80,14 @@ PST1.3SG-NEG.PST1 | ə̑-š | tol | --- | ---- | kolə̑ | ---- | ----
 NEG.PST1-1PL | š-ə̑na | tol | --- | ---- | kolə̑ | ---- | ----
 NEG.PST1-2PL | š-ə̑da | tol | --- | ---- | kolə̑ | ---- | ----
 PST1.3SG-NEG.PST1 | ə̑-š | tol | --- | ---- | kolep | ---- | ----
+
+#### Прошедшее II
+
+Глосса   | I         | I B    | I F    | I CV | II     | II B   | II F   | II CV
+-------- | --------- | ------ | ------ | ---- | ------ | ------ | ------ | -----
+PST2.1SG | -ə̑nam     | tolə̑nam | ------ | ---- | -enäm  | kolenäm | ------ | -----
+PST2.2SG | -ə̑nat     | tolə̑nat | ------ | ---- | -enät  | kolenät | ------ | -----
+PST2.3SG | -ə̑n       | tolə̑n | ------ | ---- | -en    | kolen | ------ | -----
+PST2.1PL | -ə̑nna     | tolə̑nna | ------ | ---- | -ennä  | kolennä | ------ | -----
+PST2.2PL | -ə̑nda     | tolə̑nda | ------ | ---- | -endä  | kolendä | ------ | -----
+PST2.3PL | -ə̑nə̑t     | tolə̑nə̑t | ------ | ---- | -enə̈t  | kolenə̈t | ------ | -----
