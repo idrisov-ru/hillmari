@@ -33,21 +33,30 @@ POSS.3PL | -ə̑štə̑/-ə̈štə̈ | və̈də̈štə̈ | kogoštə̑ | kečə�
 
 ### Типы основ
 
-Форма | 1 спр., задний ряд | 1 спр., передний ряд | 2 спр., задний ряд | 2 спр., передний ряд
------ | ------------------ | -------------------- | ------------------ | --------------------
---- | идти | насыщаться | умирать | писать
-INF | tolaš | temäš | kolaš | siräš
-CVB | tolə̑n | temə̈n | kolen | siren
+Форма | I Back | I Front | I CV | II Back | II Front | II CV
+----- | ------ | ------- | ---- | ------- | -------- | -----
+----- | идти | насыщаться | ? | умирать | писать | идти
+INF | tolaš | temäš | ? | kolaš | siräš | keäš
+CVB | tolə̑n | temə̈n | ? | kolen | siren | ?
 
 ### Индикатив
 
 #### Непрошедшее
 
-Глосса | Показатель (I спр.) | Пример | Пример | Показатель (II спр.) | Пример | Пример
------- | ------------------- | ------ | ------ | -------------------- | ------ | ------
-NPST.1SG | -am/-äm  | tolam | temäm | -em | kolem | sirem
-NPST.2SG | -at/-ät | tolat | temät | -et | kolet | siret
-NPST.3SG | -eš | toleš | temeš | -a/-ä | kola | sirä
-NPST.1PL | -ə̑na/-ə̈nä | tolə̑na | temə̈nä | -enä | kolenä | sirenä
-NPST.2PL | -ə̑da/-ə̈dä | tolə̑da | temə̈dä | -edä | koledä | siredä
-NPST.3PL | -ə̑t/-ə̈t | tolə̑t | temə̈t | -at/-ät | kolat | sirät
+Глосса | I | I B | I F | I CV | II | II B | II F | II CV
+------ | --| ------ | ------ | -- | -- | ------ | ------ | --
+NPST.1SG | -am/-äm  | tolam | temäm | -- | -em | kolem | sirem | kem
+NPST.2SG | -at/-ät | tolat | temät | -- | -et | kolet | siret | ket
+NPST.3SG | -eš | toleš | temeš | -- | -a/-ä | kola | sirä | keä
+NPST.1PL | -ə̑na/-ə̈nä | tolə̑na | temə̈nä | -- | -enä | kolenä | sirenä | kenä
+NPST.2PL | -ə̑da/-ə̈dä | tolə̑da | temə̈dä | -- | -edä | koledä | siredä | kedä
+NPST.3PL | -ə̑t/-ə̈t | tolə̑t | temə̈t | -- | -at/-ät | kolat | sirät | keät
+
+Глосса | Отриц. глагол | I B | I F | I CV | II B | II F | II CV
+------ | --------------| --- | --- | -----| ---- | ---- | ----
+NEG.NPST-1SG | a-m | tol | tem | -- | kolə̑ | sirə̈ | ke
+NEG.NPST-2SG | a-t | tol | tem | -- | kolə̑ | sirə̈ | ke
+NEG.NPST-3 | a-k | tol | tem | -- | kolə̑ | sirə̈ | ke
+NEG.NPST-1PL | a-na | tol | tem | -- | kolə̑ | sirə̈ | ?
+NEG.NPST-2PL | a-da | tol | tem | -- | kolə̑ | sirə̈ | ?
+NEG.NPST-3 | a-k | tolep | temep | -- | kolep | sirep | ?
