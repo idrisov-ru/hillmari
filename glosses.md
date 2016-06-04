@@ -58,9 +58,9 @@ LAT | --- | --- | --- | --- | --- | ---
 
 Форма | I Back | I Front | I CV | II Back | II Front | II CV
 ----- | ------ | ------- | ---- | ------- | -------- | -----
------ | идти | насыщаться | ? | умирать | писать | идти
-INF | tolaš | temäš | ? | kolaš | siräš | keäš
-CVB | tolə̑n | temə̈n | ? | kolen | siren | ?
+----- | идти | насыщаться | быть | умирать | писать | идти
+INF | tolaš | temäš | liäš | kolaš | siräš | keäš
+CVB | tolə̑n | temə̈n | lin | kolen | siren | ken
 
 ### Индикатив
 
@@ -78,8 +78,8 @@ NPST.3PL | -ə̑t/-ə̈t   | tolə̑t  | temə̈t  | ?   | -at/-ät | kolat  | s
 Глосса | Отриц. глагол | I B | I F | I CV | II B | II F | II CV
 ------ | ------------- | --- | --- | ---- | ---- | ---- | ----
 NEG.NPST-1SG | a-m | tol | tem | -- | kolə̑ | sirə̈ | ke
-NEG.NPST-2SG | a-t | tol | tem | -- | kolə̑ | sirə̈ | ke
-NEG.NPST-3 | a-k | tol | tem | -- | kolə̑ | sirə̈ | ke
+NEG.NPST-2SG | a-t | tol | tem | li | kolə̑ | sirə̈ | ke
+NEG.NPST-3 | a-k | tol | tem | li | kolə̑ | sirə̈ | ke
 NEG.NPST-1PL | a-na | tol | tem | -- | kolə̑ | sirə̈ | ?
 NEG.NPST-2PL | a-da | tol | tem | -- | kolə̑ | sirə̈ | ?
 NEG.NPST-3 | a-k | tolep | temep | -- | kolep | sirep | ?
@@ -128,7 +128,7 @@ NEG.PST2 | ---------- | toltelə̑t | --- | ---- | kolə̑delə̑t | ---- | ----
 
 Глосса   | I     | I B    | I F    | I CV | II B   | II F   | II CV
 -------- | ----- | ------ | ------ | ---- | ------ | ------ | -----
-IMP.2SG  | -∅ | tol | ------ | ---- | kolə̑ | ------ | -----
-IMP.3SG  | -žə̑/-žə̈ | tolžə̑ | ------ | ---- | kolə̑žə̑ | ------ | -----
-IMP.2PL  | -da/-dä | tolda | ------ | ---- | kolə̑da | ------ | -----
-IMP.3PL  | -ə̑štə̑/-ə̈štə̈ | tolə̑štə̑ | ------ | ---- | kolə̑štə̑ | ------ | -----
+IMP.2SG  | -∅ | tol | ------ | li | kolə̑ | ------ | -----
+IMP.3SG  | -žə̑/-žə̈ | tolžə̑ | ------ | ližə̈ | kolə̑žə̑ | ------ | -----
+IMP.2PL  | -da/-dä | tolda | ------ | lidä | kolə̑da | ------ | -----
+IMP.3PL  | -ə̑štə̑/-ə̈štə̈ | tolə̑štə̑ | ------ | lištə̈ | kolə̑štə̑ | ------ | -----
