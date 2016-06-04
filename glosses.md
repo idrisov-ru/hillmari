@@ -38,7 +38,8 @@ POSS.3PL | -ə̑štə̑/-ə̈štə̈ | və̈də̈štə̈ | kogoštə̑ | kečə�
 
 ### Личные местоимения
 
-   | 1SG | 2SG | 3SG | 1PL | 2PL | 3PL
+--- | 1SG | 2SG | 3SG | 1PL | 2PL | 3PL
+--- | --- | --- | --- | --- | --- | ---
 NOM | mə̈n' | tə̈n' | tə̈də̈ | mä | tä | nə̈nə̈
 GEN | mə̈n'ə̈n | tə̈n'ə̈n | tə̈də̈n | mämnän | tämdän | nə̈nə̈n
 DAT | mə̈lä(ne)m | tə̈lä(ne)t | tə̈də̈län | mälännä | täländä | nə̈nə̈län
