@@ -94,12 +94,12 @@ NEG.NPST-3 | a-k | tolep | temep | liep | kolep | sirep | keep
 
 Глосса   | I         | I B    | I F    | I CV | II     | II B   | II F   | II CV
 -------- | --------- | ------ | ------ | ---- | ------ | ------ | ------ | -----
-PST1.1SG | -(')ə̑m | tol'ə̑m  | temə̈m | ---- | -ə̑šə̑m | kolə̑šə̑m | sirə̈šə̈m | kešə̈m
-PST1.2SG | -(')ə̑c | tol'ə̑c  | temə̈c | ---- | -ə̑šə̑c | kolə̑šə̑c | sirə̈šə̈c | kešə̈c
-PST1.3SG | -(')ə̑ | tol'ə̑   | temə̈ | ---- | -ə̑š | kolə̑š | sirə̈š | keš
-PST1.1PL | -na | tolna  | temnä | ---- | -ə̑šna | kolə̑šna | sirə̈šnä | kešnä
-PST1.2PL | -da | tolda  | temdä | ---- | -ə̑šta | kolə̑šta | sirə̈štä | keštä
-PST1.3PL | -(')evə̈ | tol'evə̈ | temevə̈ | ---- | -evə̈ | kolevə̈ | sirevə̈ | kevə̈
+PST1.1SG | -(')ə̑m/-(')ə̈m | tol'ə̑m  | temə̈m | ---- | -ə̑šə̑m/-ə̈šə̈m | kolə̑šə̑m | sirə̈šə̈m | kešə̈m
+PST1.2SG | -(')ə̑c/-(')ə̈c | tol'ə̑c  | temə̈c | ---- | -ə̑šə̑c/-ə̈šə̈c | kolə̑šə̑c | sirə̈šə̈c | kešə̈c
+PST1.3SG | -(')ə̑/-(')ə̈ | tol'ə̑   | temə̈ | ---- | -ə̑š/-ə̈š | kolə̑š | sirə̈š | keš
+PST1.1PL | -na/-nä | tolna  | temnä | ---- | -ə̑šna/-ə̈šnä | kolə̑šna | sirə̈šnä | kešnä
+PST1.2PL | -da/-dä | tolda  | temdä | ---- | -ə̑šta/-ə̈štä | kolə̑šta | sirə̈štä | keštä
+PST1.3PL | -evə̈ | tol'evə̈ | temevə̈ | ---- | -evə̈ | kolevə̈ | sirevə̈ | kevə̈
 
 Глосса | Отриц. глагол | I B | I F | I CV | II B | II F | II CV
 ------ | ------------- | --- | --- | ---- | ---- | ---- | ----
@@ -114,12 +114,12 @@ PST1.3SG-NEG.PST1 | ə̈-š | tolep | temep | liep | kolep | sirep | keep
 
 Глосса   | I         | I B    | I F    | I CV | II     | II B   | II F   | II CV
 -------- | --------- | ------ | ------ | ---- | ------ | ------ | ------ | -----
-PST2.1SG | -ə̑nam     | tolə̑nam | temə̈näm | linäm | -enäm  | kolenäm | sirenäm | kenäm
-PST2.2SG | -ə̑nat     | tolə̑nat | temə̈nät | linät | -enät  | kolenät | sirenät | kenät
-PST2.3SG | -ə̑n       | tolə̑n | temə̈n | lin | -en    | kolen | siren | kejen
-PST2.1PL | -ə̑nna     | tolə̑nna | temə̈nnä | linnä | -ennä  | kolennä | sirennä | kennä
-PST2.2PL | -ə̑nda     | tolə̑nda | temə̈ndä | lindä | -endä  | kolendä | sirendä | kendä
-PST2.3PL | -ə̑nə̑t     | tolə̑nə̑t | temə̈nə̈t | linə̈t | -enə̈t  | kolenə̈t | sirenə̈t | kenə̈t
+PST2.1SG | -ə̑nam/-ə̈näm | tolə̑nam | temə̈näm | linäm | -enäm  | kolenäm | sirenäm | kenäm
+PST2.2SG | -ə̑nat/-ə̈nät | tolə̑nat | temə̈nät | linät | -enät  | kolenät | sirenät | kenät
+PST2.3SG | -ə̑n/-ə̈n | tolə̑n | temə̈n | lin | -en    | kolen | siren | kejen
+PST2.1PL | -ə̑nna/-ə̈nna | tolə̑nna | temə̈nnä | linnä | -ennä  | kolennä | sirennä | kennä
+PST2.2PL | -ə̑nda/-ə̈ndä | tolə̑nda | temə̈ndä | lindä | -endä  | kolendä | sirendä | kendä
+PST2.3PL | -ə̑nə̑t/-ə̈nə̈t | tolə̑nə̑t | temə̈nə̈t | linə̈t | -enə̈t  | kolenə̈t | sirenə̈t | kenə̈t
 
 Глосса   | Показатель   | I B | I F | I CV | II B | II F | II CV
 -------- | ------------ | --- | --- | ---- | ---- | ---- | ----
