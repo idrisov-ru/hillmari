@@ -3,10 +3,9 @@
 ## Имя
 
 ### Плюралис
-Глосса | Показатель | Пример | Примечание
------- | ---------- | ------ | ----------
-PL1 | -βlä | püergə̈βlä | аддитивная множественность
-PL2 | -mə̈t | ät'ämə̈t | групповая множественность
+Глосса | Показатель | Пример 
+------ | ---------- | ------ 
+PL1 | -vlä | püergə̈vlä 
 
 ### Посессивные показатели
 Глосса | Показатель | Пример | Пример | Пример
@@ -30,7 +29,6 @@ POSS.3PL | -ə̑štə̑/-ə̈štə̈ | və̈də̈štə̈ | kogoštə̑ | kečə�
 Лишительный | CAR | -de/-te | və̈tte | kogode | kečə̈de
 Совместный | COMIT | -ge/-ke | və̈tke | kogoge | kečə̈ge
 Сравнительный | CMPR | -la/-lä | və̈tlä | kogola | kečə̈lä
-Причинный | CSL | -lanen/-länen | və̈tlänen | kogolanen | kečə̈länen
 Местный | IN | -ə̑štə̑/-ə̈štə̈ | və̈də̈štə̈ | kogoštə̑ | kečə̈štə̈
 Направительный | ILL | -ə̑š(kə̑)/-ə̈š(kə̈) | və̈də̈š(kə̈) | kogoš(kə̑) | kečə̈š(kə̈)
 Обстоятельственный | LAT | -eš | və̈deš | kogoeš | kečeš
@@ -44,19 +42,14 @@ POSS.3PL | -ə̑štə̑/-ə̈štə̈ | və̈də̈štə̈ | kogoštə̑ | kečə�
 
 ### Личные местоимения
 
---- | 1SG | 2SG | 3SG | 1PL | 2PL | 3PL
---- | --- | --- | --- | --- | --- | ---
-NOM | mə̈n' | tə̈n' | tə̈də̈ | mä | tä | nə̈nə̈
-GEN | mə̈n'ə̈n | tə̈n'ə̈n | tə̈də̈n | mämnän | tämdän | nə̈nə̈n
-DAT | mə̈lä(ne)m | tə̈lä(ne)t | tə̈də̈län | mälännä | täländä | nə̈nə̈län
-ACC | mə̈n'ə̈m | tə̈n'ə̈m | tə̈də̈m | mämnäm | tämdäm | nə̈nə̈m
-CAR | --- | --- | --- | --- | --- | ---
-COMIT | mə̈n'ge | tə̈n'ge | tə̈də̈ge | mäge | täge | nə̈nə̈ge
-CMPR | mə̈n'lä | tə̈n'lä | tə̈də̈lä | mälä | tälä | nə̈nə̈lä
-CSL | --- | --- | --- | --- | --- | ---
-IN | --- | --- | --- | --- | --- | ---
-ILL | --- | --- | --- | --- | --- | ---
-LAT | --- | --- | --- | --- | --- | ---
+--- | 1SG | 2SG | 1PL | 2PL
+--- | --- | --- | --- | ---
+NOM | mə̈n' | tə̈n' | mä | tä
+GEN | mə̈n'ə̈n | tə̈n'ə̈n | mämnän | tämdän
+DAT | mə̈lä(ne)m | tə̈lä(ne)t | mälännä | täländä
+ACC | mə̈n'ə̈m | tə̈n'ə̈m | mämnäm | tämdäm
+CMPR | mə̈n'lä | tə̈n'lä | mälä | tälä
+
 
 ## Глагол
 
@@ -94,12 +87,14 @@ NEG.NPST-3 | a-k | tolep | temep | liep | kolep | sirep | keep
 
 Глосса   | I         | I B    | I F    | I CV | II     | II B   | II F   | II CV
 -------- | --------- | ------ | ------ | ---- | ------ | ------ | ------ | -----
-PST1.1SG | -(')ə̑m/-(')ə̈m | tol'ə̑m  | temə̈m | ---- | -ə̑šə̑m/-ə̈šə̈m | kolə̑šə̑m | sirə̈šə̈m | kešə̈m
-PST1.2SG | -(')ə̑c/-(')ə̈c | tol'ə̑c  | temə̈c | ---- | -ə̑šə̑c/-ə̈šə̈c | kolə̑šə̑c | sirə̈šə̈c | kešə̈c
-PST1.3SG | -(')ə̑/-(')ə̈ | tol'ə̑   | temə̈ | ---- | -ə̑š/-ə̈š | kolə̑š | sirə̈š | keš
+PST1.1SG | -(')ə̑m/-(')ə̈m* | tol'ə̑m  | temə̈m | ---- | -ə̑šə̑m/-ə̈šə̈m | kolə̑šə̑m | sirə̈šə̈m | kešə̈m
+PST1.2SG | -(')ə̑c/-(')ə̈c* | tol'ə̑c  | temə̈c | ---- | -ə̑šə̑c/-ə̈šə̈c | kolə̑šə̑c | sirə̈šə̈c | kešə̈c
+PST1.3SG | -(')ə̑/-(')ə̈* | tol'ə̑   | temə̈ | ---- | -ə̑š/-ə̈š | kolə̑š | sirə̈š | keš
 PST1.1PL | -na/-nä | tolna  | temnä | ---- | -ə̑šna/-ə̈šnä | kolə̑šna | sirə̈šnä | kešnä
 PST1.2PL | -da/-dä | tolda  | temdä | ---- | -ə̑šta/-ə̈štä | kolə̑šta | sirə̈štä | keštä
-PST1.3PL | -evə̈ | tol'evə̈ | temevə̈ | ---- | -evə̈ | kolevə̈ | sirevə̈ | kevə̈
+PST1.3PL | -evə̈ | tolevə̈ | temevə̈ | ---- | -evə̈ | kolevə̈ | sirevə̈ | kevə̈
+
+* -- показатель, отмеченный звездочкой, палатализует конечные -n, -l, -t
 
 Глосса | Отриц. глагол | I B | I F | I CV | II B | II F | II CV
 ------ | ------------- | --- | --- | ---- | ---- | ---- | ----
