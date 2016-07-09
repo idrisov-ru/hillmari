@@ -14,7 +14,7 @@ POSS.1SG | -em | və̈dem | kogoem | kečem
 POSS.2SG | -et | və̈det | kogoet | kečet
 POSS.3SG | -žə̑/-žə̈/-šə̑/-šə̈ | və̈tšə̈ | kogožə̑ | kečə̈žə̈
 POSS.1PL | -na/-nä | və̈tnä | kogona | kečə̈nä
-POSS.2PL | -da/-dä/-ta/-tä | və̈ttä | kogoda | kečə̈dä
+POSS.2PL | -da/-dä/-ta/-tä | və̈ttä/və̈tdä | kogoda | kečə̈dä
 POSS.3PL | -ə̑štə̑/-ə̈štə̈ | və̈də̈štə̈ | kogoštə̑ | kečə̈štə̈
 
 ### Падежные показатели
@@ -26,8 +26,8 @@ POSS.3PL | -ə̑štə̑/-ə̈štə̈ | və̈də̈štə̈ | kogoštə̑ | kečə�
 Родительный | GEN | -ə̑n/-ə̈n | və̈də̈n | kogon | kečə̈n
 Дательный | DAT | -lan/-län | və̈tlän | kogolan | kečə̈län
 Винительный | ACC | -ə̑m/-ə̈m | və̈də̈m | kogom | kečə̈m
-Лишительный | CAR | -de/-te | və̈tte | kogode | kečə̈de
-Совместный | COMIT | -ge/-ke | və̈tke | kogoge | kečə̈ge
+Лишительный | CAR | -de/-te | və̈tde | kogode | kečə̈de
+Совместный | COMIT | -ge/-ke | və̈tge | kogoge | kečə̈ge
 Сравнительный | CMPR | -la/-lä | və̈tlä | kogola | kečə̈lä
 Местный | IN | -ə̑štə̑/-ə̈štə̈ | və̈də̈štə̈ | kogoštə̑ | kečə̈štə̈
 Направительный | ILL | -ə̑š(kə̑)/-ə̈š(kə̈) | və̈də̈š(kə̈) | kogoš(kə̑) | kečə̈š(kə̈)
@@ -57,8 +57,7 @@ CMPR | mə̈n'lä | tə̈n'lä | mälä | tälä
 
 Форма | I Back | I Front | I CV | II Back | II Front | II CV
 ----- | ------ | ------- | ---- | ------- | -------- | -----
------ | приходить | насыщаться | быть, становиться | умирать | писать | идти (куда-то)
-INF | tolaš | temäš | liäš | kolaš | siräš | keäš
+----- | приходить | насыщаться | быть, становиться | умирать | писать | идти
 CVB | tolə̑n | temə̈n | lin | kolen | siren | ken
 
 ### Индикатив
@@ -87,14 +86,14 @@ NEG.NPST-3 | a-k | tolep | temep | liep | kolep | sirep | keep
 
 Глосса   | I         | I B    | I F    | I CV | II     | II B   | II F   | II CV
 -------- | --------- | ------ | ------ | ---- | ------ | ------ | ------ | -----
-PST1.1SG | -(')ə̑m/-(')ə̈m* | tol'ə̑m  | temə̈m | ---- | -ə̑šə̑m/-ə̈šə̈m | kolə̑šə̑m | sirə̈šə̈m | kešə̈m
-PST1.2SG | -(')ə̑c/-(')ə̈c* | tol'ə̑c  | temə̈c | ---- | -ə̑šə̑c/-ə̈šə̈c | kolə̑šə̑c | sirə̈šə̈c | kešə̈c
-PST1.3SG | -(')ə̑/-(')ə̈* | tol'ə̑   | temə̈ | ---- | -ə̑š/-ə̈š | kolə̑š | sirə̈š | keš
-PST1.1PL | -na/-nä | tolna  | temnä | ---- | -ə̑šna/-ə̈šnä | kolə̑šna | sirə̈šnä | kešnä
-PST1.2PL | -da/-dä | tolda  | temdä | ---- | -ə̑šta/-ə̈štä | kolə̑šta | sirə̈štä | keštä
-PST1.3PL | -evə̈ | tolevə̈ | temevə̈ | ---- | -evə̈ | kolevə̈ | sirevə̈ | kevə̈
+PST1.1SG | -(')ə̑m/-(')ə̈m* | tol'ə̑m  | temə̈m | lim | -ə̑šə̑m/-ə̈šə̈m | kolə̑šə̑m | sirə̈šə̈m | kešə̈m
+PST1.2SG | -(')ə̑c/-(')ə̈c* | tol'ə̑c  | temə̈c | lic | -ə̑šə̑c/-ə̈šə̈c | kolə̑šə̑c | sirə̈šə̈c | kešə̈c
+PST1.3SG | -(')ə̑/-(')ə̈* | tol'ə̑  | temə̈ | li | -ə̑š/-ə̈š | kolə̑š | sirə̈š | keš
+PST1.1PL | -na/-nä | tolna  | temnä | linä | -ə̑šna/-ə̈šnä | kolə̑šna | sirə̈šnä | kešnä
+PST1.2PL | -da/-dä | tolda  | temdä | lidä | -ə̑šta/-ə̈štä | kolə̑šda | sirə̈šdä | kešdä
+PST1.3PL | -(')evə̈*| tol'evə̈ | temevə̈ | lievə̈ | -evə̈ | kolevə̈ | sirevə̈ | kevə̈
 
-* -- показатель, отмеченный звездочкой, палатализует конечные -n, -l, -t
+* -- показатель, отмеченный звездочкой, палатализует конечные -n, -l, -t глагольной основы
 
 Глосса | Отриц. глагол | I B | I F | I CV | II B | II F | II CV
 ------ | ------------- | --- | --- | ---- | ---- | ---- | ----
@@ -103,7 +102,7 @@ NEG.PST1-2SG | š-ə̈c | tol | tem | li | kolə̑ | sirə̈ | ke
 PST1.3SG-NEG.PST1 | ə̈-š | tol | tem | li | kolə̑ | sirə̈ | ke
 NEG.PST1-1PL | š-ə̈nä | tol | tem | li | kolə̑ | sirə̈ | ke
 NEG.PST1-2PL | š-ə̈dä | tol | tem | li | kolə̑ | sirə̈ | ke
-PST1.3SG-NEG.PST1 | ə̈-š | tolep | temep | liep | kolep | sirep | keep
+PST1.3SG-NEG.PST1 | ə̈-š | tolep | temep | liep | kolep | sirep | kep
 
 #### Прошедшее II
 
@@ -118,12 +117,12 @@ PST2.3PL | -ə̑nə̑t/-ə̈nə̈t | tolə̑nə̑t | temə̈nə̈t | linə̈t | 
 
 Глосса   | Показатель   | I B | I F | I CV | II B | II F | II CV
 -------- | ------------ | --- | --- | ---- | ---- | ---- | ----
-NEG.PST2 | ---------- | toltelam | --- | ---- | kol(ə̑)delam | ---- | ketelam
-NEG.PST2 | ---------- | toltelat | --- | ---- | kolə̑delat | ---- | ketelat
-NEG.PST2 | ---------- | tolte | --- | ---- | kolə̑de | ---- | kete
-NEG.PST2 | ---------- | toltelna | --- | ---- | kolə̑delna | ---- | ketelna
-NEG.PST2 | ---------- | toltelda | --- | ---- | kolə̑delda | ---- | ketelda
-NEG.PST2 | ---------- | toltelə̑t | --- | ---- | kolə̑delə̑t | ---- | ketelə̑t
+NEG.PST2 | -telam/-delam | toltelam | temdelam | litelam | kolə̑delam | sirə̈delam | ketelam
+NEG.PST2 | -telat/-delat | toltelat | temdelat | litelat | kolə̑delat | sirə̈delat | ketelat
+NEG.PST2 | -te/-de | tolte | temde | lite | kolə̑de | sirə̈de | kete
+NEG.PST2 | -telna/-delna | toltelna | temdelna | litelna | kolə̑delna | sirə̈delna | ketelna
+NEG.PST2 | -telda/-delda | toltelda | temdelda | litelda | kolə̑delda | sirə̈delda | ketelda
+NEG.PST2 | -telə̑t/-delə̑t | toltelə̑t | temdelə̑t | litelə̑t | kolə̑delə̑t | sirə̈delə̑t | ketelə̑t
 
 ### Императив
 
